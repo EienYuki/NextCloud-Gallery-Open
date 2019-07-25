@@ -1,4 +1,4 @@
-# NextCloud-Gallery-Open
+# NextCloud Gallery Open
 
 ### 功能
 以當前的資料夾路徑開啟 NextCloud 的 Gallery 程式
